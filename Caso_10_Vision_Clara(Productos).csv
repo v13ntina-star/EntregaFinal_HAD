@@ -1,0 +1,13 @@
+ID_Producto;Producto;Categoría;Precio_Lista;Costo_Unitario
+P1001;Lente monofocal;Lentes ópticos;59990;56460
+P1002;Lente bifocal;Lentes ópticos;89990;39000
+P1003;Lente multifocal;Lentes ópticos;189990;95800
+P1004;Marco económico;Lentes ópticos;24990;15440
+P1005;Lentes de sol polarizados;Lentes de sol;49990;29120
+P1006;Lentes de sol de marca;Lentes de sol;129990;83090
+P1007;Lentes de sol infantiles;Lentes de sol;19990;10890
+P1008;Lentes de contacto mensuales;Lentes de contacto;24990;15180
+P1009;Lentes de contacto diarios;Lentes de contacto;34990;20090
+P1010;Solución multipropósito;Lentes de contacto;7990;3470
+P1011;Examen visual;Exámenes;12000;6670
+P1012;Examen pediátrico;Exámenes;15000;8710
