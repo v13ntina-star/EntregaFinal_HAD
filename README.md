@@ -47,7 +47,7 @@ Este proyecto analiza la evolución y proyección demográfica de Chile a partir
 ### Reporte 2 - R
 Este proyecto analiza la evolución mensual del Imacec minero en Chile (índice empalmado base promedio `2018 = 100`, serie del Banco Central de Chile `F032.IMC.IND.Z.Z.EP18.03.Z.0.M`) entre enero de 2013 y agosto de 2026, combinando el procesamiento de la serie temporal en R con una lectura económica y estacional de los resultados. El propósito es evaluar el nivel y la dinámica de la actividad minera, distinguiendo patrones recurrentes en el año, puntos extremos de la serie y señales recientes de desaceleración, apara analizar y entender este sector clave de la economía chilena.
 
-### Reporte 3 - PBI
+### Reporte 4 - PBI
 
 Este proyecto analiza el comportamiento comercial de la caden óptica Visión Clara, considerando el desempeño de sus locales y el rendimiento de los productos tranzados. En el análisis integra productos, precios y fechas como una imagen completa de la situación económica de la firma, pudiendo remarcar puntos de atención, como margenes de venta, locales con mejor rendimiento, costos de producción y rentabilidad del proyecto.
 
